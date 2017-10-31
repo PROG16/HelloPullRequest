@@ -48,6 +48,7 @@
     <Compile Include="Fredrik.cs" />
     <Compile Include="Patrik.cs" />
     <Compile Include="JesperAndreas.cs" />
+    <Compile Include="Mpm\Patric.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
