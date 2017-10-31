@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace HelloPullRequest.Mpm
 {
-    public class Patric
+    class Patric : Person
     {
+        public override void Speak()
+        {
+            Console.WriteLine("Patric va här!");
+        }
     }
 }

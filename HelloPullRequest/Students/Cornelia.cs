@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace HelloPullRequest
 {
-    class Fredrik : Person
+    class Cornelia
     {
-        public override void Speak()
+        public static void Jump()
         {
-            Console.WriteLine("Khalid was here!");
+            Console.WriteLine("Jump up and down");
         }
     }
 }
