@@ -13,6 +13,11 @@ namespace HelloPullRequest
             var persons = new List<Person>();
 
             persons.Add(new Fredrik());
+            persons.Add(new Andre());
+            persons.Add(new Chabbe());
+            persons.Add(new Patrik());
+            persons.Add(new EsterBergstrom());
+            persons.Add(new JesperAndreas());
 
             foreach (var person in persons)
             {
