@@ -10,7 +10,7 @@ namespace HelloPullRequest
     {
         public override void Speak()
         {
-            Console.WriteLine("CHABBE IS GOD!");
+            Console.WriteLine("CHABBE IS SHIT!");
         }
     }
 }
