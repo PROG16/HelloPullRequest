@@ -10,7 +10,14 @@ namespace HelloPullRequest
     {
         static void Main(string[] args)
         {
-            // Add code here...
+            var persons = new List<Person>();
+
+            persons.Add(new Fredrik());
+
+            foreach (var person in persons)
+            {
+                person.Speak();
+            }
         }
     }
 }
