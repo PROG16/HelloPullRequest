@@ -18,6 +18,7 @@ namespace HelloPullRequest
             {
                 person.Speak();
             }
+            Console.ReadKey();
         }
     }
 }
