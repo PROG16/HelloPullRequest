@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace HelloPullRequest
 {
-    class Fredrik : Person
+    public class Fredrik : Person
     {
+        public bool CanSpeak()
+        {
+            return true;
+        }
+
         public override void Speak()
         {
             Console.WriteLine("Khalid was here!");

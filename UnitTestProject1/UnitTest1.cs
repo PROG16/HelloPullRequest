@@ -1,4 +1,5 @@
 ﻿using System;
+using HelloPullRequest;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace UnitTestProject1
@@ -9,7 +10,15 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-            // Will always succeed!
+            // Arrange
+
+            var person = new Fredrik();
+
+            // Act
+            var result = person.CanSpeak();
+
+            // Assert
+            Assert.IsTrue(result, "Fredrik cant speak");
         }
     }
 }
