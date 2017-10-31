@@ -1,1 +1,3 @@
 # HelloPullRequest
+
+Use abstract Person class to implement your Speak thingie...
