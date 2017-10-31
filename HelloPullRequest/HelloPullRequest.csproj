@@ -42,11 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Daniel.cs" />
+    <Compile Include="Erik.cs" />
     <Compile Include="Students\Cornelia.cs" />
     <Compile Include="Andre.cs" />
     <Compile Include="Chabbe.cs" />
     <Compile Include="Albin.cs" />
     <Compile Include="Fredrik.cs" />
+    <Compile Include="Klas.cs" />
+    <Compile Include="Isa.cs" />
     <Compile Include="Patrik.cs" />
     <Compile Include="JesperAndreas.cs" />
     <Compile Include="Mpm\Patric.cs" />
@@ -54,6 +58,7 @@
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tanja.cs" />
     <Compile Include="Students\Torbjorn.cs" />
     <Compile Include="Students\EsterBergstrom.cs" />
   </ItemGroup>
