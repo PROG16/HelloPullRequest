@@ -10,7 +10,7 @@ namespace HelloPullRequest
     {
         public override void Speak()
         {
-            Console.WriteLine("Fredrik waz here!");
+            Console.WriteLine("Khalid was here!");
         }
     }
 }
