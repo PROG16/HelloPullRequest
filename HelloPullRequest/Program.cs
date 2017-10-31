@@ -14,6 +14,7 @@ namespace HelloPullRequest
 
             persons.Add(new Fredrik());
             persons.Add(new Erik());
+            persons.Add(new JesperAndreas());
 
             foreach (var person in persons)
             {
