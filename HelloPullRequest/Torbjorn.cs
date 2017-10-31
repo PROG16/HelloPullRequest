@@ -8,7 +8,7 @@ namespace HelloPullRequest
 {
     class Torbjorn
     {
-        public override void Speak()
+        public static void Speak()
         {
             Console.WriteLine("Torbjorn waz here!");
         }
