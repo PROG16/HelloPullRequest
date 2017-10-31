@@ -22,6 +22,8 @@ namespace HelloPullRequest
             persons.Add(new EsterBergstrom());
             persons.Add(new JesperAndreas());
 
+            persons.Add(new Isa());
+            persons.Add(new Tanja());
             foreach (var person in persons)
             {
                 person.Speak();
