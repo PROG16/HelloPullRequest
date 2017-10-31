@@ -14,6 +14,8 @@ namespace HelloPullRequest
 
             persons.Add(new Fredrik());
             persons.Add(new Erik());
+            persons.Add(new Daniel());
+            persons.Add(new Klas());
             persons.Add(new Andre());
             persons.Add(new Chabbe());
             persons.Add(new Patrik());
