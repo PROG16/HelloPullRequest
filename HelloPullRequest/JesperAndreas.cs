@@ -10,7 +10,7 @@ namespace HelloPullRequest
     {
         public override void Speak()
         {
-            Console.WriteLine("YEAH PICkLE RICK");
+            Console.WriteLine("Improvise, Adapt, overcome");
         }
     }
 }
