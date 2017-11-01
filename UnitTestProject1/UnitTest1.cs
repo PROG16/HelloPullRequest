@@ -20,5 +20,19 @@ namespace UnitTestProject1
             // Assert
             Assert.IsTrue(result, "Fredrik cant speak");
         }
+        
+        [TestMethod]
+        public void TestMethod2()
+        {
+            // Arrange
+
+            var person = new Fredrik();
+
+            // Act
+            var result = person.CanSpeak();
+
+            // Assert
+            Assert.IsTrue(result, "Fredrik cant speak");
+        }
     }
 }
